@@ -1,0 +1,1 @@
+These scripts will deploy a virtual landing zone for azure servers. Then you can create virtual machines. The next script will configure and deploy backup and alerting rules.
